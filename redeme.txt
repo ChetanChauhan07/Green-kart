@@ -1,0 +1,2 @@
+The file consist of automation script of site "Greenkart" link "https://rahulshettyacademy.com/seleniumPractise/".
+It is the complete automation script from invoke of browser to perform every possible action of the site.
